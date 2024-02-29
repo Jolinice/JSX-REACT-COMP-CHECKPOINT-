@@ -1,0 +1,37 @@
+.App{
+  font-family: red rose;
+  /* background-image: url(./Assets/1270178.jpg) ; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+  
+}
+.text{
+  color: white;
+
+}
+.card{
+  margin-left: 25%;
+  margin-top: 04%;
+  margin-bottom: 5%;
+  
+  width: 50%;
+  align-items: center;
+  border-radius: 5%;
+}
+.title{
+  color:#f7d747;
+  font-weight: lighter;
+  margin-left: 30%;
+}
+.list-group-flush{
+  color: brown;
+}
+.link{
+  text-decoration: none;
+  color:#036b90
+}
+.link:hover{
+  color:#f7d747;
+  text-decoration: overline;
+}
